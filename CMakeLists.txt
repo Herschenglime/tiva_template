@@ -5,7 +5,7 @@ cmake_minimum_required(VERSION 3.12)
 # EDIT below to change the name of the cmake project 
 project(LedExample)
 
-# Make TivaCMake's features available to this file 
+# Make TivaCMake's features available to this file
 find_package(TivaCMake)
 
 #-------------------- This section is optional and contains some opinionated settings-----------------------------------------
